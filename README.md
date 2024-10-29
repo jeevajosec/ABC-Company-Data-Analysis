@@ -2,15 +2,15 @@ README: Overview of the ABC Company Data Analysis Project
 Project Overview
 This project analyzes employee data from ABC Company, focusing on various aspects such as team distribution, employee positions, age demographics, salary expenditure, and the correlation between age and salary. The dataset includes the following columns:
 
-Name: Employee's name
-Team: Department or team the employee belongs to
-Number: Employee number
-Position: Job title
-Age: Employee's age
-Height: Employee's height (with some incorrect entries)
-Weight: Employee's weight
-College: College attended (contains null values)
-Salary: Employee's salary (contains null values)
+Name: Employee's name,
+Team: Department or team the employee belongs to,
+Number: Employee number,
+Position: Job title,
+Age: Employee's age,
+Height: Employee's height (with some incorrect entries),
+Weight: Employee's weight,
+College: College attended (contains null values),
+Salary: Employee's salary (contains null values).
 
 
 Data Preprocessing Steps
